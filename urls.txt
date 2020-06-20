@@ -1,0 +1,10 @@
+link 1: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_latitude_laptop/latitude-e7470-ultrabook_install%20guide2_en-us.pdf
+link 2: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_latitude_laptop/latitude-e7470-ultrabook_reference%20guide_en-us.pdf
+link 3: https://downloads.dell.com/rdoc/dell%20latitude%20e7470,p61g,p61g001,dell%20regulatory%20and%20environmental%20datasheet.pdf
+link 4: https://topics-cdn.dell.com/pdf/swollenbattery-3_en-us.pdf
+link 5: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_setup%20guide_en-us.pdf
+link 6: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf
+link 7: https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_laptop_latitude/latitude-15-9510-2-in-1-laptop_white-papers128_en-us.pdf
+link 8: https://downloads.dell.com/rdoc/dell%20latitude%209510%20p94f%20p94f001%20dell%20regulatory%20and%20environmental%20datasheet%20en-us.pdf
+link 9: https://downloads.dell.com/rdoc/dell%20latitude%209510%202-in-1%20p95f%20p95f001%20dell%20regulatory%20and%20environmental%20datasheet%20en-us.pdf
+link 10: https://downloads.dell.com/rdoc/dell%20latitude%209510%20p94f%20p94f001%20ukrainian%20-%20declaration%20of%20conformity%20en-us.pdf
