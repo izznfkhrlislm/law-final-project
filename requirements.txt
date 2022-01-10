@@ -1,6 +1,6 @@
 amqp==2.5.2
 asgiref==3.2.3
-astroid==2.3.3
+astroid==2.9.3
 attrs==19.3.0
 Babel==2.8.0
 billiard==3.6.3.0
