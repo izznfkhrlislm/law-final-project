@@ -54,7 +54,7 @@ pika==1.1.0
 protobuf==3.7.1
 psycopg2-binary==2.8.4
 PyJWT==1.7.1
-pylint==2.4.4
+pylint==2.13.7
 pylogbeat==1.0.3
 pyrsistent==0.15.7
 python-logstash-async==1.6.4
