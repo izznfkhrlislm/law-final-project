@@ -24,7 +24,7 @@ django-picklefield==2.1.1
 django-sms-gateway==1.2.1
 django-twilio==0.12.1
 django-uuidfield-2==0.6.6
-djangorestframework==3.11.0
+djangorestframework==3.14.0
 docker==4.2.0
 docker-compose==1.25.4
 docker-pycreds==0.4.0
